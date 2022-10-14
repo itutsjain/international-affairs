@@ -393,6 +393,7 @@ nav ul li{
 
 .dir-text{
 	padding-left: 3rem;
+	max-width:53rem;
 }
 
 .dir-detail{
